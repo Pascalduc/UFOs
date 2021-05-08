@@ -1,0 +1,11 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+  /* add background-position: center; and 400% for no vertical compression*/
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    }
