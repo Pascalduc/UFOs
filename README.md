@@ -12,7 +12,9 @@ The purpose of this project was to help Dana build a dynamic webpage where users
 •	Next, in the JavaScript app, we created an empty variable `var filters = {};` to hold the changed element in the placeholders.
 
 •	We then inserted an event listener using `d3` to check for changes in the input placeholder just before the `buildTable(tableData);` function.
-    ```d3.selectAll("input").on("change", updateFilters);```
+    ```
+    d3.selectAll("input").on("change", updateFilters);
+    ```
 
 •	We modified the `updateFilters()` function, by first creating a variable for the changed element using `d3.select(this)`, then saving the values of those elements into a new variable. We also saved the id of the modified filters to a variable and used an if-else statement to use or not each filters.
 
