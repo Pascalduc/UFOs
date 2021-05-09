@@ -2,7 +2,7 @@
 Module 11
 
 ## Overview of the project:
-The purpose of this project was to help Dana build a dynamic webpage where users can enter inputs resulting in a filtered table. In addition to the `date`, we added more filters for the `city`, `state`, `country` and `shape`.
+The purpose of this project was to help Dana build a dynamic webpage where users can filter the data table. In addition to the `date`, we added more filters for the `city`, `state`, `country` and `shape`.
 
 ## Results:
 •	First, we removed the filter `button` from the `index.html` file and added four new items to the unordered list `<ul/>`.
