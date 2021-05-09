@@ -29,7 +29,7 @@ In the new webpage, a user can enter between one and five search criteria, and t
 ![table_example](Resources/table_example.png)
 
 ## Summary:
-•	In a summary, this new table is working properly but to clear the filters, we must either delete all entry and press `ENTER` or go back up to the top of the page to refresh the page by clicking on UFO sightings. 
+•	In summary, this new table is working properly but to clear the filters, we must either delete all entry and press `ENTER` or go back up to the top of the page to refresh the page by clicking on UFO sightings. 
 
 •	To improve this page, we could add a `CLEAR` button close to the filters.
 
